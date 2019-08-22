@@ -22,7 +22,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/elastic/go-elasticsearch/v7"
+	"github.com/yext/go-elasticsearch"
 )
 
 // ES holds a reference to the Elasticsearch client

@@ -11,8 +11,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/elastic/go-elasticsearch/v7/internal/cmd/generate/commands"
-	"github.com/elastic/go-elasticsearch/v7/internal/cmd/generate/utils"
+	"github.com/yext/go-elasticsearch/internal/cmd/generate/commands"
+	"github.com/yext/go-elasticsearch/internal/cmd/generate/utils"
 )
 
 var (
