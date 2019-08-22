@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elastic/go-elasticsearch/v7/internal/version"
+	"github.com/yext/go-elasticsearch/internal/version"
 )
 
 // Version returns the package version as a string.
